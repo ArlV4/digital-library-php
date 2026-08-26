@@ -1,0 +1,3 @@
+# Abaikan file sistem dan upload besar jika perlu
+.DS_Store
+Thumbs.db
